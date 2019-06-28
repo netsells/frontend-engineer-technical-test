@@ -14,6 +14,12 @@ As an Engineer you should have a firm grasp of both the technical and visual asp
 
 Using the designs provided, create a multi-step form to allow users (yourself) to submit your CV and details to via Ajax. All the backend work is done for you, you simply need to hit the endpoint with the data required. By "multi-step" we mean that the form should be a "flow". You complete step 1, then step 2 etc and finally submit all data collected.
 
+### Assets
+
+The visual assets can be found here: https://www.dropbox.com/sh/i8jdi74jbh229lq/AADWrojnCvjiFcOkrl_v56XWa?dl=0
+
+They are provided in sketch, PSD and PNG formats, use whichever format you can open.
+
 ### Form fields
 
 Details of the form fields required and any validation rules are provided below, and should be submitted using the associated field names. Any other validation rules will be returned in the 422 response so be sure to handle them appropriately.
