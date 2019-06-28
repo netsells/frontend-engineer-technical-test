@@ -1,3 +1,5 @@
+![Netsells Logo](./images/netsells-logo-with-slogan.jpg)
+
 # Frontend Engineer Technical Test
 
 The brief is simple. Create a multi-step form used to submit your CV and details to a provided endpoint via Ajax. The technology you employ is completely up to you, as long as the form submits successfully. 
