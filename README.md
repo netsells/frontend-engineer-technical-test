@@ -16,7 +16,7 @@ Using the designs provided, create a multi-step form to allow users (yourself) t
 
 ### Assets
 
-The visual assets can be found here: https://www.dropbox.com/sh/i8jdi74jbh229lq/AADWrojnCvjiFcOkrl_v56XWa?dl=0
+The visual assets can be found here: https://drive.google.com/drive/folders/1GRIhwVqpe6aL5NrVKIBBZPNhLk94jMY4?usp=sharing
 
 They are provided in sketch, PSD and PNG formats, use whichever format you can open.
 
