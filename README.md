@@ -14,6 +14,19 @@ As an Engineer you should have a firm grasp of both the technical and visual asp
 
 Using the designs provided, create a multi-step form to allow users (yourself) to submit your CV and details to via Ajax. All the backend work is done for you, you simply need to hit the endpoint with the data required. By "multi-step" we mean that the form should be a "flow". You complete step 1, then step 2 etc and finally submit all data collected.
 
+### Must haves
+
+The general requirements for this test are few, but we will be looking for the following 
+
+- A successful end to end flow
+- A visual that matches the design provided - using a single theme design
+- Basic file upload functionality
+
+### Nice to have but not required
+
+- Theme switcher
+- Drag and drop file upload functionality
+
 ### Assets
 
 The visual assets can be found here: https://drive.google.com/drive/folders/1GRIhwVqpe6aL5NrVKIBBZPNhLk94jMY4?usp=sharing
