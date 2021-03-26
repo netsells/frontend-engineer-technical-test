@@ -10,6 +10,8 @@ Don't worry about over-engineering, we want to see the technology you can make u
 
 As an Engineer you should have a firm grasp of both the technical and visual aspects of the submission.
 
+Our tech stack is Nuxt.js + SCSS, bonus points if you follow this.
+
 ## Instructions
 
 Using the designs provided, create a multi-step form to allow users (yourself) to submit your CV and details to via Ajax. All the backend work is done for you, you simply need to hit the endpoint with the data required. By "multi-step" we mean that the form should be a "flow". You complete step 1, then step 2 etc and finally submit all data collected.
@@ -19,8 +21,9 @@ Using the designs provided, create a multi-step form to allow users (yourself) t
 The general requirements for this test are few, but we will be looking for the following 
 
 - A successful end to end flow
-- A visual that matches the design provided - using a single theme design
+- A visual that matches the design provided - using a single theme design (light/dark)
 - Basic file upload functionality
+- Responsive - no design provided, but should be fairly easy to adapt
 
 ### Nice to have but not required
 
