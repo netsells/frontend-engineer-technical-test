@@ -1,11 +1,7 @@
 <template>
 	<vs-row>
 		<vs-col>
-			<!--<vs-row>
-				<vs-col class="col-4">step</vs-col>
-				<vs-col class="col-4"></vs-col>
-				<vs-col class="col-4"></vs-col>
-			</vs-row> -->
+
 			
 					<vs-row>
 				<vs-col col="w-12">

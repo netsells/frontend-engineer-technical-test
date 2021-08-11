@@ -15,9 +15,9 @@
         <progressbar :percentage="getProgressBar(3)"></progressbar
       ></vs-col>
     </vs-row>
-    {{form_data}}
+ 
 
-    <!--<h1 v-if="step != 0">Step {{ step }}</h1> -->
+
     <step_1 v-if="step == 1"></step_1>
     <step_2 v-else-if="step == 2"></step_2>
     <step_3 v-else-if="step == 3"></step_3>
@@ -26,7 +26,7 @@
 
     <!--STEPS-->
     <div v-if="step != 0 || step <= 3">
-      <!-- <button v-if="step > 0" @click="step--">Back</button>  -->
+      
       <button class="btn_style1" v-if="step < 3" @click="checkForm()">
         Next
       </button>

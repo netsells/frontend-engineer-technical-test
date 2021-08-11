@@ -15,7 +15,7 @@
 					<h5>Step 1</h5>
 					
 					<h4>Personal Details</h4>
-					<p>leroam ipsum leroam ipsum leroam ipsum leroam ipsum leroam
+					<p>Please complete your personal details
 					</p>
 					<router-link to="/formd/1"  type="button">Complete</router-link>
 				</vs-col>
@@ -24,7 +24,7 @@
 					<h5>Step 2</h5>
 					
 					<h4>More about you</h4>
-					<p>leroam ipsum leroam ipsum leroam ipsum leroam ipsum leroam
+					<p>Please complete this section by clicking complete
 					</p>
 					<router-link to="/formd/2"  type="button">Complete</router-link>
 				</vs-col>
@@ -33,7 +33,7 @@
 					<h5>Step 3</h5>
 				
 					<h4>Files Upload</h4>
-					<p>leroam ipsum leroam ipsum leroam ipsum leroam ipsum leroam
+					<p>Please upload cover letter and cv
 					</p>
 					<router-link to="/formd/3" type="button">Complete</router-link>
 				</vs-col>

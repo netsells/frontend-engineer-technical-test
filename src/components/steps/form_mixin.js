@@ -55,7 +55,7 @@ export const form_mixin = {
 				};
 				self.step++;
 			}
-			//this.$route.push("/thankyou");
+		
 		},
 		getProgressBar(step) {
 			const self = this;
@@ -64,7 +64,7 @@ export const form_mixin = {
 
 			if (step === 1) {
 				self.step1.map(data => {
-					//	console.log(data);
+				
 					if (self.form_data[data]) {
 
 						progressCoun++;
